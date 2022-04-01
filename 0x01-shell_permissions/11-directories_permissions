@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod d755 subdirectories
+chmod 755 /bin/hello
